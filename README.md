@@ -23,7 +23,7 @@
 
 ## For  customer login:
 
-    username:"user" password:"user"
+    username:"userchithu" password:"magic"
     
 ## For  Employee login:
 
